@@ -1,3 +1,5 @@
+image:https://travis-ci.com/jaiswalvik/camel-example-corda.svg?branch=master["Build Status", link="https://travis-ci.com/jaiswalvik/camel-example-corda"]
+
 == Camel Corda Example
 
 === Introduction
